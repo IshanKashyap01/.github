@@ -14,7 +14,7 @@ assignees: ''
 <!-- Changes in git's configuration such as .gitignore, .gitattribute etc. -->
 
 ## GitHub
-<!-- Changes to Git -->
+<!-- Changes to GitHub's configuration i.e. everything under the .github/ -->
 
 ## Build Tool
 <!-- Build tools used (Maven, Gradle, etc.) -->
