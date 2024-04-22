@@ -1,12 +1,3 @@
----
-name: Release
-about: A new release
-title: 'Release:'
-labels: 'release'
-assignees: ''
-
----
-
 # Release
 <!-- also mention the respective issues, if possible -->
 
