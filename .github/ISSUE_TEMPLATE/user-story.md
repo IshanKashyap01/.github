@@ -15,14 +15,6 @@ assignees: ''
 
 -
 
--
-
--
-
 ## Acceptance Criteria
-
-- [ ]
-
-- [ ]
 
 - [ ]
