@@ -1,7 +1,6 @@
 ---
 name: Documentation
 about: Changes in the documentation of the project/repo
-title: 'Docs:'
 labels: documentation
 assignees: ''
 

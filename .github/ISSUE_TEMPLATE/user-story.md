@@ -1,7 +1,6 @@
 ---
 name: User story
 about: User story for a project
-title: 'User story:'
 labels: enhancement
 assignees: ''
 

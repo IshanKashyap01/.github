@@ -1,7 +1,6 @@
 ---
 name: Configuration changes
 about: Changes in the project's configuration (build, git, GitHub etc.)
-title: 'Config:'
 labels: config
 assignees: ''
 
