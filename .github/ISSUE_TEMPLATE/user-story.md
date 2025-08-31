@@ -18,7 +18,7 @@ assignees: ''
 
 <!-- Break down the story into atomic implementation steps -->
 
-- [ ]
+-
 
 ## Acceptance Criteria
 
